@@ -1,0 +1,1 @@
+Lever,Speed,GTT,GT rpm,CPP T stbd,CPP T port,Q port,rpm port,Q stdb,rpm stbd,T48,GG rpm,Fuel flow,ABB Tic,P2,T2,Pext,P48,TCS tic,Kt stbd,rps prop stbd,Kt port,rps prop port,Q prop port,Q prop stbd,Kkt,Kkq,Khull,KMcompr,KMturb
